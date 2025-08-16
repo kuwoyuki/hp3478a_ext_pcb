@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "OLIMEX_IC")(type "KiCad")(uri "/home/mira/src/pcbs/hp3478a-ch32-ext/OLIMEX_IC.kicad_sym")(options "")(descr ""))
+)
